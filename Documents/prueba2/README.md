@@ -1,3 +1,2 @@
 # Mi proyecto
-# Agregando cambios a la nueva rama
-# Nueva línea para el error
+# Nueva linea ahora con la rama mejora-text
